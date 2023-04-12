@@ -1,0 +1,28 @@
+{
+  "name": "to-do_list",
+  "version": "1.0.0",
+  "description": "an app to pracitce MEAN-Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LucasGazetta/To-Do_List.git"
+  },
+  "keywords": [
+    "to-do"
+  ],
+  "author": "Lucas Gazetta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasGazetta/To-Do_List/issues"
+  },
+  "homepage": "https://github.com/LucasGazetta/To-Do_List#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  }
+}
